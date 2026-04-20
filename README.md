@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&lines=Hello+World%2C+I'm+Wester+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter+%7C+Hacker" alt="Typing SVG">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Text-Effects/main/text_effects/Fire%20Text%20Effect.gif" width="400" alt="Wester">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=We5ter&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS">
-</p>
+<h1 align="center">Hi there 👋, I'm <a href="https://lightrains.org"><span style="color: #00F0FF;">Wester</span></a></h1>
+
+<h3 align="center">Security Researcher | Bug Hunter | Hacker</h3>
 
 ---
 
@@ -44,5 +44,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&color=7B2FF7&center=true&vCenter=true&lines=Thanks+for+visiting!+%E2%9C%A8" alt="Footer Typing SVG">
+  <b>Thanks for visiting! ✨</b>
 </p>
