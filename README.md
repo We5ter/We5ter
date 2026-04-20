@@ -19,7 +19,7 @@
 ```
 
 - 🌐 **Blog**: [lightrains.org](https://lightrains.org)
-- 📧 **Email**: wester@lightrains.org
+- 📧 **Email**: alert@lightrains.org
 - 💼 **Work**: Mobile Security / Chrome Security / Red Team
 
 ---
@@ -33,8 +33,8 @@
   <a href="https://twitter.com/we5ter">
     <img src="https://img.shields.io/badge/Twitter-we5ter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter">
   </a>
-  <a href="mailto:wester@lightrains.org">
-    <img src="https://img.shields.io/badge/Email-wester@lightrains.org-EA4335?style=flat-square&logo=gmail" alt="Email">
+  <a href="mailto:alert@lightrains.org">
+    <img src="https://img.shields.io/badge/Email-alert@lightrains.org-EA4335?style=flat-square&logo=gmail" alt="Email">
   </a>
   <a href="https://lightrains.org">
     <img src="https://img.shields.io/badge/Blog-lightrains.org-00F0FF?style=flat-square&logo=google-chrome" alt="Blog">
