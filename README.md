@@ -1,28 +1,16 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Text-Effects/main/text_effects/Fire%20Text%20Effect.gif" width="400" alt="Wester">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Wester+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter" alt="Typing SVG">
 </p>
 
-<h1 align="center">Hi there 👋, I'm <a href="https://lightrains.org"><span style="color: #00F0FF;">Wester</span></a></h1>
-
-<h3 align="center">Security Researcher | Bug Hunter | Hacker</h3>
-
----
-
-## 🎯 About Me
+## 🎯 Work
 
 ```
-╔════════════════════════════════════════╗
-║  🔒 Security Researcher from China     ║
-║  🎯 Focus: Browser & Product Security ║
-║  ⚔️  Offensive Security Enthusiast    ║
-╚════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║  🔒 Security Researcher from China                             ║
+║  🎯 Focus: AI security | AI safety | Offensive Security        ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
-- 🌐 **Blog**: [lightrains.org](https://lightrains.org)
-- 📧 **Email**: alert@lightrains.org
-- 💼 **Work**: Mobile Security / Chrome Security / Red Team
-
----
 
 ## 🤝 Connect With Me
 
@@ -41,8 +29,7 @@
   </a>
 </p>
 
----
 
 <p align="center">
-  <b>Thanks for visiting! ✨</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&color=7B2FF7&center=true&vCenter=true&lines=Thanks+for+visiting!+%E2%9C%A8" alt="Footer Typing SVG">
 </p>
