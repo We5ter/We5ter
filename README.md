@@ -6,7 +6,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🔒 Security Researcher from China                             ║
+║  🔒 Security Researcher & Bug Hunter from China                             ║
 ║  🎯 Focus: AI security | AI safety | Offensive Security        ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
@@ -18,8 +18,8 @@
   <a href="https://github.com/We5ter">
     <img src="https://img.shields.io/badge/Github-We5ter-181717?style=flat-square&logo=github" alt="GitHub">
   </a>
-  <a href="https://twitter.com/we5ter">
-    <img src="https://img.shields.io/badge/Twitter-we5ter-1DA1F2?style=flat-square&logo=twitter" alt="Twitter">
+  <a href="https://x.com/wester0x01">
+    <img src="https://img.shields.io/badge/.com-wester0x01-1DA1F2?style=flat-square&logo=x" alt="X">
   </a>
   <a href="mailto:alert@lightrains.org">
     <img src="https://img.shields.io/badge/Email-alert@lightrains.org-EA4335?style=flat-square&logo=gmail" alt="Email">
