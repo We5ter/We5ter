@@ -6,7 +6,7 @@
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
-║  🔒 Security Researcher & Bug Hunter from China                             ║
+║  🔒 Security Researcher & Bug Hunter from China                ║
 ║  🎯 Focus: AI security | AI safety | Offensive Security        ║
 ╚════════════════════════════════════════════════════════════════╝
 ```
