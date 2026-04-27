@@ -2,18 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Wester+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter" alt="Typing SVG">
 </p>
 
-## 🎯 Work
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║  🔒 Security Researcher & Bug Hunter from China                ║
-║  🎯 Focus: AI security | AI safety | Offensive Security        ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
 ---
+### [🔍 Try it now →](https://lightrains.org/android-osv/)
 
-## 🔥 Android Security Bulletin OSV Search
+## 🔥 Android Security Bulletin OSV Search(https://lightrains.org/android-osv/)
 
 <p align="center">
   <a href="https://lightrains.org/android-osv/">
@@ -21,7 +13,6 @@
   </a>
 </p>
 
-### [🔍 Try it now →](https://lightrains.org/android-osv/)
 
 A **fully searchable** Android vulnerability database powered by **Google OSV**, containing **3,261+ entries** (ASB + PUB) with real-time filtering by severity, keyword, CVE ID, component name, and more.
 
