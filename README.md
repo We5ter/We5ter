@@ -3,32 +3,6 @@
 </p>
 
 ---
-### [🔍 Try it now →](https://lightrains.org/android-osv/)
-
-## 🔥 Android Security Bulletin OSV Search(https://lightrains.org/android-osv/)
-
-<p align="center">
-  <a href="https://lightrains.org/android-osv/">
-    <img src="android-osv/preview.png" alt="Android OSV Search" width="700">
-  </a>
-</p>
-
-
-A **fully searchable** Android vulnerability database powered by **Google OSV**, containing **3,261+ entries** (ASB + PUB) with real-time filtering by severity, keyword, CVE ID, component name, and more.
-
-#### ✨ Why this over the official [OSV.dev](https://osv.dev/)?
-
-| Feature | **This Tool** | Official OSV.dev |
-|---------|---------------|------------------|
-| **Full-text search** | ✅ Search by **any keyword** (component, description, CVE...) | ❌ Only vulnerability ID lookup |
-| **Severity filter** | ✅ One-click: Critical / High / Moderate / Low | ❌ No severity filtering |
-| **Offline-capable** | ✅ All data client-side, instant response | ❌ Server round-trip per query |
-| **Mobile-friendly** | ✅ Responsive with hamburger nav | ⚠️ Limited on mobile |
-| **Data coverage** | ✅ **3,261 entries** (ASB + legacy PUB) | Same source, different UX |
-
-> 💡 Data from [Google OSV](https://osv.dev/) · Auto-updated bi-monthly via GitHub Actions
-
----
 
 ## 🤝 Connect With Me
 
