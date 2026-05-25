@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Wester+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&color=00F0FF&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Wester+%F0%9F%91%8B;Security+Researcher+%7C+Bug+Hunter" alt="Typing SVG">
 </p>
-
----
-
-## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/We5ter">
@@ -23,5 +19,5 @@
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=4000&color=7B2FF7&center=true&vCenter=true&lines=Thanks+for+visiting!+%E2%9C%A8" alt="Footer Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=6000&color=7B2FF7&center=true&vCenter=true&lines=Thanks+for+visiting!+%E2%9C%A8" alt="Footer Typing SVG">
 </p>
