@@ -9,11 +9,8 @@
   <a href="https://x.com/wester0x01">
     <img src="https://img.shields.io/badge/.com-wester0x01-1DA1F2?style=flat-square&logo=x" alt="X">
   </a>
-  <a href="mailto:alert@lightrains.org">
-    <img src="https://img.shields.io/badge/Email-alert@lightrains.org-EA4335?style=flat-square&logo=gmail" alt="Email">
-  </a>
-  <a href="https://lightrains.org">
-    <img src="https://img.shields.io/badge/Blog-lightrains.org-00F0FF?style=flat-square&logo=google-chrome" alt="Blog">
+  <a href="https://we5ter.github.io">
+    <img src="https://img.shields.io/badge/Blog-we5ter.github.io-00F0FF?style=flat-square&logo=google-chrome" alt="Blog">
   </a>
 </p>
 
