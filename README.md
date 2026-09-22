@@ -1,7 +1,4 @@
 <p align="center">
-<a href="https://github.com/We5ter">
-<img src="https://img.shields.io/badge/Github-We5ter-181717?style=flat-square&logo=github" alt="GitHub">
-</a>
 <a href="https://x.com/wester0x01">
 <img src="https://img.shields.io/badge/.com-wester0x01-1DA1F2?style=flat-square&logo=x" alt="X">
 </a>
