@@ -15,13 +15,13 @@
 <a href="https://www.zhihu.com/column/DataDefSecurity">
 <img src="https://img.shields.io/badge/知乎-Wester的AI安全札记-0084FF?style=flat-square&logo=zhihu" alt="知乎">
 </a>
-<a href="https://we5ter.github.io/images/static/wechat-qr.png">
+<a href="#">
 <img src="https://img.shields.io/badge/微信公众号-Wester的AI安全札记-07C160?style=flat-square&logo=wechat" alt="微信公众号">
 </a>
 </p>
 
 <p align="center">
-<img src="https://we5ter.github.io/images/static/wechat-qr.png" width="180" alt="WeChat QR">
+<img src="https://we5ter.github.io/images/static/wechat-qr.jpg" width="240" alt="WeChat QR">
 <br>
 <sub>扫一扫关注微信公众号「Wester的AI安全札记」</sub>
 </p>
