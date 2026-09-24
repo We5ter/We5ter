@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="400" src="https://we5ter.github.io/images/static/wester-logo.svg" alt="Wester">
+</p><p align="center">
 <a href="https://x.com/wester0x01">
 <img src="https://img.shields.io/badge/.com-wester0x01-1DA1F2?style=flat-square&logo=x" alt="X">
 </a>
